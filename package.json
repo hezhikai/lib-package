@@ -1,5 +1,5 @@
 {
-  "name": "lib-package",
+  "name": "hzkweb-package",
   "version": "0.1.0",
   "description": "A package for dependences.",
   "main": "src/index.js",
