@@ -1,0 +1,19 @@
+{
+  "name": "lib-package",
+  "version": "0.1.0",
+  "description": "A package for dependences.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hezhikai/lib-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hezhikai/lib-package/issues"
+  },
+  "homepage": "https://github.com/hezhikai/lib-package#readme"
+}
